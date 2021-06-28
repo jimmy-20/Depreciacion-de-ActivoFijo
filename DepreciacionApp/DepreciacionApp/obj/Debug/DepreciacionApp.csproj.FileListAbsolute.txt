@@ -1,0 +1,13 @@
+C:\Users\Jimmy-Soza\source\repos\Depreciacion-de-ActivoFijo\DepreciacionApp\DepreciacionApp\bin\Debug\DepreciacionApp.exe.config
+C:\Users\Jimmy-Soza\source\repos\Depreciacion-de-ActivoFijo\DepreciacionApp\DepreciacionApp\bin\Debug\DepreciacionApp.exe
+C:\Users\Jimmy-Soza\source\repos\Depreciacion-de-ActivoFijo\DepreciacionApp\DepreciacionApp\bin\Debug\DepreciacionApp.pdb
+C:\Users\Jimmy-Soza\source\repos\Depreciacion-de-ActivoFijo\DepreciacionApp\DepreciacionApp\obj\Debug\DepreciacionApp.csproj.AssemblyReference.cache
+C:\Users\Jimmy-Soza\source\repos\Depreciacion-de-ActivoFijo\DepreciacionApp\DepreciacionApp\obj\Debug\DepreciacionApp.Form1.resources
+C:\Users\Jimmy-Soza\source\repos\Depreciacion-de-ActivoFijo\DepreciacionApp\DepreciacionApp\obj\Debug\DepreciacionApp.Forms.FrmRegister.resources
+C:\Users\Jimmy-Soza\source\repos\Depreciacion-de-ActivoFijo\DepreciacionApp\DepreciacionApp\obj\Debug\DepreciacionApp.Forms.FrmViewActivoFijos.resources
+C:\Users\Jimmy-Soza\source\repos\Depreciacion-de-ActivoFijo\DepreciacionApp\DepreciacionApp\obj\Debug\DepreciacionApp.Properties.Resources.resources
+C:\Users\Jimmy-Soza\source\repos\Depreciacion-de-ActivoFijo\DepreciacionApp\DepreciacionApp\obj\Debug\DepreciacionApp.csproj.GenerateResource.cache
+C:\Users\Jimmy-Soza\source\repos\Depreciacion-de-ActivoFijo\DepreciacionApp\DepreciacionApp\obj\Debug\DepreciacionApp.csproj.CoreCompileInputs.cache
+C:\Users\Jimmy-Soza\source\repos\Depreciacion-de-ActivoFijo\DepreciacionApp\DepreciacionApp\obj\Debug\DepreciacionApp.exe
+C:\Users\Jimmy-Soza\source\repos\Depreciacion-de-ActivoFijo\DepreciacionApp\DepreciacionApp\obj\Debug\DepreciacionApp.pdb
+C:\Users\Jimmy-Soza\source\repos\Depreciacion-de-ActivoFijo\DepreciacionApp\DepreciacionApp\obj\Debug\DepreciacionApp.Forms.FrmViewDepreciacion.resources
