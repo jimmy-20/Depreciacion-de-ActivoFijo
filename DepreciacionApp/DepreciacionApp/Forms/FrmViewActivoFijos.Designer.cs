@@ -53,6 +53,7 @@ namespace DepreciacionApp.Forms
             this.txtBuscar.Name = "txtBuscar";
             this.txtBuscar.Size = new System.Drawing.Size(413, 20);
             this.txtBuscar.TabIndex = 1;
+            this.txtBuscar.TextChanged += new System.EventHandler(this.txtFinder);
             // 
             // dgvActivoFijos
             // 
@@ -62,7 +63,7 @@ namespace DepreciacionApp.Forms
             this.dgvActivoFijos.Size = new System.Drawing.Size(460, 278);
             this.dgvActivoFijos.TabIndex = 2;
             // 
-            // ViewActivoFijos
+            // FrmViewActivoFijos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -70,8 +71,9 @@ namespace DepreciacionApp.Forms
             this.Controls.Add(this.dgvActivoFijos);
             this.Controls.Add(this.txtBuscar);
             this.Controls.Add(this.label1);
-            this.Name = "ViewActivoFijos";
+            this.Name = "FrmViewActivoFijos";
             this.Text = "ViewActivoFijos";
+            this.Load += new System.EventHandler(this.FrmViewActivoFijos_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvActivoFijos)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

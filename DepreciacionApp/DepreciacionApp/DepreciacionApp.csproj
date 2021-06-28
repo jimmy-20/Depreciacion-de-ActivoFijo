@@ -46,6 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Clases\Depreciación\DepreciacionFactory.cs" />
+    <Compile Include="Clases\Depreciación\IDepreciacion.cs" />
+    <Compile Include="Clases\Depreciación\LineaRecta.cs" />
+    <Compile Include="Clases\Depreciación\SumaDigito.cs" />
+    <Compile Include="Clases\Model\ActivoFijoModel.cs" />
     <Compile Include="Enums\MetodoDepreciacion.cs" />
     <Compile Include="Enums\TipoActivoFijo.cs" />
     <Compile Include="Form1.cs">
@@ -109,9 +114,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Clases\Interfaces\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Content Include="Icons\accounting_icon_179008.png" />
   </ItemGroup>
